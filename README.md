@@ -1,4 +1,7 @@
-[README.txt](https://github.com/user-attachments/files/27089067/README.txt)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Version](https://img.shields.io/badge/version-v2.0.0-green)
+![License](https://img.shields.io/badge/license-MIT-orange)
+[README.md](https://github.com/user-attachments/files/27089067/README.txt)
 # AzeddeMute
 > One key. Mic muted. Done.
 
